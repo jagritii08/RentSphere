@@ -114,4 +114,4 @@ If you'd like to contribute, please fork the repository and submit a pull reques
 
 
 ## Contact 📞
-For questions or feedback, feel free to reach out to me at jagritishukla402gmail.com.
+For questions or feedback, feel free to reach out to me at jagritishukla40@gmail.com.
